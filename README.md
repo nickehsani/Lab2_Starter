@@ -1,1 +1,2 @@
-# Lab 2 - Starter
+# Lab 2 - Nick Ehsani
+Nick's [URL](index.html)
