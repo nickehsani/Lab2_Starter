@@ -1,2 +1,2 @@
 # Lab 2 - Nick Ehsani
-Nick's [URL](index.html)
+My URL: https://nickehsani.github.io/Lab2_Starter/
